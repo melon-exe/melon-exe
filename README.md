@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+melon
+she/her
+Biomedical Sciences student, aspiring bioinformaticist
+Currently teaching myself how to code <3
+At the moment working on basic data visualisation on Python and familiarizing myself with a bunch of libraries.
+Can't wait to level up and contribute to open source projects, hopefully before the end of this year!
+
+
+
 <!--
 **melon-exe/melon-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
