@@ -1,4 +1,4 @@
-## Hi there 👋\
+## Hi there 👋
 \
 melon \
 she/her \
@@ -10,13 +10,13 @@ Can't wait to level up and contribute to open source projects, hopefully before 
 \
 <ins>Personal Roadmap</ins>\
 \
-- [ ] Learn how to use Github and Git effectively \
-- [ ] Learn data science theory on DataCamp \
-- [ ] Learn Python and R and demonstrate knowledge by creating mini projects \
-- [ ] Complete beta full stack developer course on freeCodeCamp \
-- [ ] Participate in Kaggle competitions \
-- [ ] Complete exercises on Rosalind \
-- [ ] Contribute to open source projects e.g. Outreachy and GSOC \
+- [ ] Learn how to use Github and Git effectively 
+- [ ] Learn data science theory on DataCamp 
+- [ ] Learn Python and R and demonstrate knowledge by creating mini projects 
+- [ ] Complete beta full stack developer course on freeCodeCamp 
+- [ ] Participate in Kaggle competitions 
+- [ ] Complete exercises on Rosalind 
+- [ ] Contribute to open source projects e.g. Outreachy and GSOC 
 
 
 
