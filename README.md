@@ -8,8 +8,9 @@ At the moment working on basic data visualisation on Python and familiarizing my
 Can't wait to level up and contribute to open source projects, hopefully before the end of this year! 
 \
 \
-<ins>Personal Roadmap</ins>
-\
+<ins>Personal Roadmap</ins>\
+
+
 - [ ] Learn how to use Github and Git effectively 
 - [ ] Learn data science theory on DataCamp 
 - [ ] Learn Python and R and demonstrate knowledge by creating mini projects 
