@@ -2,7 +2,7 @@
 \
 melon \
 she/her \
-Biomedical Sciences student, aspiring bioinformaticist \
+Biomedical Sciences student, aspiring bioinformatician \
 Currently teaching myself how to code <3 \
 At the moment working on basic data visualisation on Python and familiarizing myself with a bunch of libraries. \
 Can't wait to level up and contribute to open source projects, hopefully before the end of this year! 
