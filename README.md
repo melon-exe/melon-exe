@@ -1,10 +1,10 @@
 ## Hi there 👋
 \
-melon \
-she/her \
+Melissa N. \
+She/Her \
 Biomedical Sciences student, aspiring bioinformatician \
 Currently teaching myself how to code <3 \
-At the moment working on basic data visualisation on Python and familiarizing myself with a bunch of libraries. \
+At the moment working on basic data visualisation on Python and familiarizing myself with a the relevant tools and libraries. \
 Can't wait to level up and contribute to open source projects, hopefully before the end of this year! 
 \
 \
@@ -12,11 +12,11 @@ Can't wait to level up and contribute to open source projects, hopefully before 
 
 
 - [ ] Learn how to use Github and Git effectively 
-- [ ] Learn data science theory on DataCamp 
-- [ ] Learn Python and R and demonstrate knowledge by creating mini projects 
-- [ ] Complete beta full stack developer course on freeCodeCamp 
-- [ ] Participate in Kaggle competitions 
-- [ ] Complete exercises on Rosalind 
+- [ ] Complete the basic "Associate Data Scientist in Python" track on DataCamp 
+- [ ] Complete ML Breast Cancer prototype project
+- [ ] Complete exercises on Rosalind
+- [ ] Complete the intermediate "Data Scientist in Python" track on DataCamp
+- [ ] Participate in a Kaggle competition 
 - [ ] Contribute to open source projects e.g. Outreachy and GSOC 
 
 
